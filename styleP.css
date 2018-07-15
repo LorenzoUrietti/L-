@@ -2,7 +2,7 @@ body{
   background-color:#f1ece1;
 }
 h1{
-  position: absolute; top:25vh; left:15vw;
+  position: absolute; top:30vh; left:15vw;
   font-size: 15vh;
   transform: translate(0%,-50%);
   line-height: 0.00em;
@@ -16,8 +16,9 @@ h1{
   font-family:'Montserrat', sans-serif;
 }
 #presentazione{
-  position: absolute; top:67vh; left:15vw;
-  line-height: 0.5em;
+  position: absolute; top:71vh; left:16vw;
+  line-height: 0.8em;
+
 }
  .description{
    opacity:0;
@@ -149,7 +150,7 @@ left:4.5vw;
   filter: brightness(30%);
 }
 #self{
-  position: absolute; top:10vw; right:10vw;
+  position: absolute; top:13vw; right:10vw;
   width:20vw; height:20vw;
 }
 #selfo{
